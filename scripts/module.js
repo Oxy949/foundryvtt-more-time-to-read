@@ -11,7 +11,7 @@ Hooks.once('init', async function () {
 
     game.settings.register("foundryvtt-more-time-to-read", "pipDurationTime", {
         name: "Pip Indicator Duration (ms)",
-        hint: "In ms. Default Foundry = 3000",
+        hint: "Default Foundry = 3000",
         scope: "world",
         config: true,
         default: 8000,
