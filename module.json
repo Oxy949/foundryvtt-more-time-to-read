@@ -1,6 +1,6 @@
 {
   "id": "foundryvtt-more-time-to-read",
-  "title": "More time to read",
+  "title": "More Time To Read",
   "description": "The module changes how long chat popup cards stay visible",
   "version": "#{VERSION}#",
   "library": "false",
