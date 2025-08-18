@@ -1,14 +1,13 @@
 {
   "id": "foundryvtt-more-time-to-read",
   "title": "More time to read",
-  "description": "This module change the time before a chat card fades away",
+  "description": "The module changes how long chat popup cards stay visible",
   "version": "#{VERSION}#",
   "library": "false",
   "manifestPlusVersion": "1.2.0",
   "compatibility": {
-      "minimum": 12,
-      "verified": 13,
-      "maximum": 13
+      "minimum": 13,
+      "verified": 13
   },
   "authors": [
       {

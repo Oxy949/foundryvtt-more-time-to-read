@@ -2,7 +2,7 @@
 
 # Foundry VTT 13 More Time To Read
 
-The module increases how long chat popup cards (the notifications tray that appears when the chat sidebar is collapsed) stay visible, and optionally extends the small dot indicator time.
+The module changes how long chat popup cards (the notifications tray that appears when the chat sidebar is collapsed) stay visible, and optionally extends the small dot indicator time.
 
 
 ## How to install 
